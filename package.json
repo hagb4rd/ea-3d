@@ -1,0 +1,26 @@
+{
+  "name": "ea-3d",
+  "version": "0.0.1",
+  "description": "geometry, 3d, vector, math",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagb4rd/ea-3d.git"
+  },
+  "keywords": [
+    "geometry",
+    "3d",
+    "webgl",
+    "vector",
+    "math"
+  ],
+  "author": "hagb4rd@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hagb4rd/ea-3d/issues"
+  },
+  "homepage": "https://github.com/hagb4rd/ea-3d#readme"
+}
