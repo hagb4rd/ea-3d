@@ -67,6 +67,14 @@ class Vector {
     return Vector.cross(this, v2);
   }
 
+  static wolfram(list) {
+    return "http://www.wolframalpha.com/input/?i=" + encodeURI(list.map(v=>"vector+"+v.toString()).join('+')); 
+  };
+
+  toString() {
+    return "(" + this.x + "," + this.y + "," + this.z + ")";
+  }
+
 }
 
 exports.Vector = Vector;

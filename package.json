@@ -1,6 +1,6 @@
 {
   "name": "ea-3d",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "geometry, 3d, vector, math",
   "main": "index.js",
   "scripts": {
